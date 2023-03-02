@@ -16,5 +16,5 @@
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
-| 1 | Trần Nguyễn Phúc Minh Quân | 20521797 | 20521797@gm.uit.edu.vn | [https://github.com/palmasvergil] |
-| 2 | Nguyễn Phương Duy | 20521242 | 20521242@gm.uit.edu.vn | [https://github.com/duyduy2808] |
+| 1 | Trần Nguyễn Phúc Minh Quân | 20521797 | 20521797@gm.uit.edu.vn | https://github.com/palmasvergil |
+| 2 | Nguyễn Phương Duy | 20521242 | 20521242@gm.uit.edu.vn | https://github.com/duyduy2808 |
